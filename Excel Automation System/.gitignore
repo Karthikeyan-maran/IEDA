@@ -1,0 +1,14 @@
+# Credentials
+client_secrets.json
+.env
+
+# Python virtual environments and caches
+__pycache__/
+*.pyc
+venv/
+excel_llm_desktop_env/
+
+# Temporary output/reports
+*.xlsx
+*.pdf
+temp_chart_*.png

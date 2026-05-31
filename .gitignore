@@ -1,0 +1,20 @@
+# Credentials
+client_secrets.json
+.env
+
+# Python Virtual Environments
+excel_llm_desktop_env/
+venv/
+env/
+
+# PyInstaller Build Artifacts
+**/build/
+**/dist/
+**/*.spec
+**/__pycache__/
+**/*.pyc
+
+# Temporary Files & Outputs
+**/*.xlsx
+**/*.pdf
+**/temp_chart_*.png
